@@ -1,2 +1,2 @@
 # DuckDB
-This repository is for a DuckDB sample database and LVM scripts and queries.
+This repository is for a DuckDB sample database, scripts and queries.
